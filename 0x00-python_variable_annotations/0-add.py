@@ -5,5 +5,5 @@
 
 def add(a: float, b: float) -> float:
     """Add two floats"""
-    result = a + b 
+    result = a + b
     return (result)
