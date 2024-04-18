@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""add type annotations to the function Given 
+"""add type annotations to the function Given
 the parameters and the return values
 """
 
