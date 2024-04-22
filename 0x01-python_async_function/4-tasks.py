@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Taking the code from wait_n and alter it into a new function task_wait_n."""
+""" Taking the code from wait_n and alter it into a new function."""
 import asyncio
 from typing import List
 task_wait_random = __import__('3-tasks').task_wait_random

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-""" Importing the wait_random from the previous python file that i’ve written and
-    write an async routine called wait_n. """
+""" Importing the wait_random from the previous python file
+    that i’ve written and write an async routine called wait_n. """
 import asyncio
 from typing import List
 wait_random = __import__('0-basic_async_syntax').wait_random
